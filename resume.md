@@ -6,7 +6,7 @@ title: 이력서
 # 🧾 정호준 - 이력서
 
 - 이메일: hojun@example.com  
-- GitHub: [https://github.com/hojunjeong](https://github.com/hojunjeong)  
+- GitHub: [https://github.com/hojun1105](https://github.com/hojun1105)  
 - 기술스택: Java, Spring, Kotlin, HTML/CSS, Git, MySQL ...
 
 ## 경력
